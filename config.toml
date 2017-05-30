@@ -1,3 +1,35 @@
-baseURL = "http://example.org/"
+baseurl = "https://grenmester.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = ""
+paginate = "10"
+theme = "mainroad"
+
+[Author]
+    name = "Jacky Lee"
+    bio = "Jacky Lee is currently a sophomore at Harvey Mudd College studying computer science and mathematics. In his spare time, he enjoys solving puzzles, playing badminton, and learning about various subjects."
+    avatar = "img/profile.png"
+
+[Params]
+    subtitle = ""
+    description = "Jacky Lee's personal website"
+    opengraph = true
+    leftsidebar = false
+    authorbox = true
+    post_navigation = true
+
+[Params.widgets]
+    search = true
+    recent_articles = true
+    recent_articles_num = 5
+    categories = true
+    tags = true
+    tags_counter = true
+    social = true
+    social_linkedin = "grenmester"
+    social_github = "grenmester"
+    social_email = "dr.jackylee@gmail.com"
+
+[Taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
