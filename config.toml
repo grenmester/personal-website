@@ -2,7 +2,7 @@ baseurl = "https://grenmester.me/"
 languageCode = "en-us"
 title = "Jacky Lee"
 paginate = "10"
-theme = "mainroad"
+theme = "Mainroad"
 
 [Params]
     subtitle = "My Personal Website"
