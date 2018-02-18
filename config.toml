@@ -4,17 +4,11 @@ title = ""
 paginate = "10"
 theme = "mainroad"
 
-[Author]
-    name = "Jacky Lee"
-    bio = "Jacky Lee is currently a sophomore at Harvey Mudd College studying computer science and mathematics. In his spare time, he enjoys solving puzzles, playing badminton, and learning about various subjects."
-    avatar = "img/profile.png"
-
 [Params]
     subtitle = ""
     description = "Jacky Lee's personal website"
     opengraph = true
     leftsidebar = false
-    authorbox = true
     post_navigation = true
 
 [Params.widgets]
