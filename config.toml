@@ -1,11 +1,11 @@
 baseurl = "https://grenmester.me/"
 languageCode = "en-us"
-title = ""
+title = "Jacky Lee"
 paginate = "10"
 theme = "mainroad"
 
 [Params]
-    subtitle = ""
+    subtitle = "My Personal Website"
     description = "Jacky Lee's personal website"
     opengraph = true
     leftsidebar = false
