@@ -72,4 +72,4 @@ the Harvey Mudd College CS5 Introduction to Computer Science course and was
 created at the 2016 MuddHacks hackathon. Picobot is a robot which can navigate
 a physical environment given a set of rules. It does this by detecting its
 surroundings with four proximity sensors and moving depending on the inputs
-detected by the sensors.
+detected by the sensors. Picobot was written in Python.
