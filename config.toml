@@ -21,7 +21,7 @@ theme = "Mainroad"
     social = true
     social_linkedin = "grenmester"
     social_github = "grenmester"
-    social_email = "dr.jackylee@gmail.com"
+    social_email = "grenmester@gmail.com"
 
 [Taxonomies]
     category = "categories"
