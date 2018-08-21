@@ -1,29 +1,39 @@
 baseurl = "https://www.grenmester.com/"
-languageCode = "en-us"
 title = "Jacky Lee"
+languageCode = "en-us"
 paginate = "10"
 theme = "Mainroad"
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Projects"
+    url = "/post/projects/"
+    weight = 2
+
 [Params]
-    subtitle = "My Personal Website"
-    description = "Jacky Lee's personal website"
-    opengraph = true
-    leftsidebar = false
-    post_navigation = true
+  subtitle = "My Personal Website"
+  description = "Jacky Lee's personal website"
+  readmore = true
+  homeLayout = "content + sidebar"
+  listLayout = "content + sidebar"
+  singleLayout = "content + sidebar"
 
 [Params.widgets]
-    search = true
-    recent_articles = true
-    recent_articles_num = 5
-    categories = true
-    tags = true
-    tags_counter = true
-    social = true
-    social_linkedin = "grenmester"
-    social_github = "grenmester"
-    social_email = "grenmester@gmail.com"
+  search = true
+  recent_articles = true
+  recent_articles_num = 5
+  categories = true
+  tags = true
+  tags_counter = true
+  social_linkedin = "grenmester"
+  social_github = "grenmester"
+  social_email = "grenmester@gmail.com"
 
 [Taxonomies]
-    category = "categories"
-    series = "series"
-    tag = "tags"
+  category = "categories"
+  series = "series"
+  tag = "tags"

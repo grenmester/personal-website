@@ -1,4 +1,10 @@
 .PHONY: all
+all: server
 
-all:
+.PHONY: server
+server:
+	hugo server
+
+.PHONY: drafts
+drafts:
 	hugo server -D
