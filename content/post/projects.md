@@ -1,12 +1,9 @@
-+++
-title = "Projects"
-description = "A list of my projects."
-date = "2018-02-18"
-categories = ["projects"]
-tags = ["projects"]
-thumbnail = ""
-menu = "main"
-+++
+---
+title: Projects
+description: This is a list of my projects.
+tags: 
+  - Projects
+---
 
 These are some of the projects that I have been working on during my spare time
 or at hackathons.
