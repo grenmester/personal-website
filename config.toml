@@ -21,6 +21,8 @@ theme = "Mainroad"
   homeLayout = "content + sidebar"
   listLayout = "content + sidebar"
   singleLayout = "content + sidebar"
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js"
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 
 [Params.widgets]
   search = true
