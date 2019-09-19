@@ -1,9 +1,8 @@
 ---
 title: Home
-description: This is the main page.
+description: This is the main page of the site.
 ---
 
-Hey! I'm a junior studying computer science and mathematics at Harvey Mudd
-College. I enjoy working on puzzles, learning about new things, and playing
-badminton in my spare time. Feel free to check out my GitHub and some of the
-projects that I have been working on.
+I'm currently a senior studying computer science and mathematics at Harvey Mudd
+College. This semester I am a visiting student at the Hong Kong University of
+Science and Technology. To learn more about me, visit the [about](/about) page.
