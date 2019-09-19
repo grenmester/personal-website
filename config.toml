@@ -10,8 +10,8 @@ theme = "Mainroad"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Projects"
-    url = "/post/projects/"
+    name = "About"
+    url = "/about"
     weight = 2
 
 [Params]
