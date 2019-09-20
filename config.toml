@@ -13,6 +13,14 @@ theme = "Mainroad"
     name = "About"
     url = "/about"
     weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects"
+    weight = 3
+  [[menu.main]]
+    name = "Course Notes"
+    url = "/course-notes"
+    weight = 4
 
 [Params]
   subtitle = "My Personal Website"
