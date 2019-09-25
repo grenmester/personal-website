@@ -15,11 +15,11 @@ theme = "Mainroad"
     weight = 2
   [[menu.main]]
     name = "Projects"
-    url = "/projects"
+    url = "/about/projects"
     weight = 3
   [[menu.main]]
     name = "Course Notes"
-    url = "/course-notes"
+    url = "/about/course-notes"
     weight = 4
 
 [Params]

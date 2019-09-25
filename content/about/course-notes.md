@@ -1,6 +1,6 @@
 ---
 title: Course Notes
-description: Course notes for some of my undergraduate courses.
+description: Course notes for some of my courses.
 ---
 
 This page exists so I can more easily access my collection of notes from some
@@ -15,7 +15,7 @@ material and make it more legible and organized. I may at some point decide to
 TeX more of them up, but when I do not know.
 
 I also have a more complete description of all my relevent
-[coursework](/coursework.pdf) which includes courses not listed below.
+[coursework](/about/coursework.pdf) which includes courses not listed below.
 
 * **MATH174 - Abstract Algebra II: Representation Theory [(scan)](/course-notes/representation-theory.pdf)**<br>
 Taught by Dagan Karp, Spring 2019
@@ -31,5 +31,5 @@ Taught by Weiqing Gu, Summer 2018
 Taught by Francis Su, Spring 2018
 * **MATH171 - Abstract Algebra I [(TeX)](https://github.com/grenmester/abstract-algebra-notes/raw/master/abstract.pdf)**<br>
 Taught by Dagan Karp, Spring 2017
-* **MATH131 - Real Analysis I [([incomplete] TeX)](https://github.com/grenmester/real-analysis-notes/raw/master/analysis.pdf)**<br>
+* **MATH131 - Real Analysis I [([WIP] TeX)](https://github.com/grenmester/real-analysis-notes/raw/master/analysis.pdf)**<br>
 Taught by Michael Orrison, Spring 2017

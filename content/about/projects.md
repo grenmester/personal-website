@@ -17,16 +17,16 @@ their opponent's "goal", a hitbox that follows their opponent's head. The
 surrounding environment acts as barriers that the ball can bounce off. AR Pong
 is built in Unity using the Mixed Reality Toolkit from Microsoft and the C#
 scripting language. A video demo of our project can be found
-[here](https://www.youtube.com/watch?v=vDQXTDfl5IM).
+[here](https://youtube.com/watch?v=vDQXTDfl5IM).
 
 ## HuntMaster <i class="devicon-python-plain colored"></i>
 
 [HuntMaster](https://github.com/grenmester/hunt-master) is a DSL useful for
 creating websites for scavenger hunts or puzzle hunts that have interactive
 modules. Each hunt consists of a set of stages in which players are required to
-provide some sort of correct input before they are able to proceeed. HuntMaster
-currently supports text input, QR codes, GPS locations, and pictures of
-specific objects. Creators can also build their own modules that can be
+provide some sort of correct input before they are able to proceeed.
+HuntMaster currently supports text input, QR codes, GPS locations, and pictures
+of specific objects. Creators can also build their own modules that can be
 integrated into HuntMaster. A video demo of a hunt created with HuntMaster can
 be found [here](https://www.youtube.com/watch?v=jMSsf1AYFw4).
 

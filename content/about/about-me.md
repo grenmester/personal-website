@@ -1,6 +1,6 @@
 ---
 title: About Me
-description: This is about my website.
+description: This page is about me.
 ---
 
 I'm currently a senior studying computer science and mathematics at Harvey Mudd
@@ -15,10 +15,10 @@ Cantonese, Mandarin, Spanish, and Japanese, of which I have listed by
 decreasing proficiency.
 
 Feel free to check out my [GitHub](https://github.com/grenmester) and some of
-the [projects](/projects) that I have been working on. You may also be
-interested in looking at my [resume](/resume.pdf), [CV](/cv.pdf),
-or a list of my [coursework](/coursework.pdf). I also have a collection
-of highly unpolished [notes](/course-notes) from some of my courses.
+the [projects](/about/projects) that I have been working on. You may also be
+interested in looking at my [resume](/about/resume.pdf), [CV](/about/cv.pdf),
+or a list of my [coursework](/about/coursework.pdf). I also have a collection
+of highly unpolished [notes](/about/course-notes) from some of my courses.
 
 I occasionally attend competitions, puzzle hunts, hackathons, and other fun
 activities. The following is a list of some those events that I remember
