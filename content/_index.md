@@ -12,3 +12,6 @@ Science and Technology.
 This website was created for me to post about random things. It is still very
 much a work in progress. To learn more about this site, visit the [about](/about)
 page.
+
+If you notice any errors or typos on this website, please let me know so I can
+fix them.
