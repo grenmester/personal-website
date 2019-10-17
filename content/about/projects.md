@@ -34,7 +34,8 @@ HuntMaster was built using Python's Flask framework and uses a Bootstrap
 frontend. Feature detection is done through Google's Vision API, GPS-based
 location tracking is done through HTML5, image comparison is done through
 OpenCV (specifically feature tracking with SIFT), and QR Code generation is
-done through the `qrcode` Python module.
+done through the `qrcode` Python module. This project was created at BeachHacks
+2017.
 
 ## Bang! <i class="devicon-python-plain colored"></i> <i class="devicon-javascript-plain colored"></i>
 
