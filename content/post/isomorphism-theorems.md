@@ -2,6 +2,7 @@
 title: The Intuition Behind the Isomorphism Theorems
 date: "2018-10-27T13:48:25-07:00"
 description: This is a post about the intuition behind the isomorphism theorems.
+lead: "A Visual Explanation of the Three Isomorphism Theorems"
 mathjax: true
 categories:
   - Math
@@ -56,7 +57,7 @@ are then sorted into buckets by \\(\varphi\\) based on where they are mapped to
 in \\(H\\). Note that \\(\varphi\\) is not necessarily surjective.
 
 <p align="center">
-	<img src="/isomorphism-theorems/first-1.png">
+	<img width="600" src="/isomorphism-theorems/first-1.png">
 </p>
 
 Note that this partitions the elements of \\(G\\) into cosets of
@@ -66,7 +67,7 @@ interpret \\(\varphi\\) in a way that gives us a bijection. Let's take a look
 at this picture:
 
 <p align="center">
-	<img src="/isomorphism-theorems/first-2.png">
+	<img width="600" src="/isomorphism-theorems/first-2.png">
 </p>
 
 While \\(\varphi\\) tells us for each element \\(h\in\im\varphi\\) which set of
@@ -112,7 +113,7 @@ we focus on the subgroup \\(AB\\) and we partition its elements into cosets of
 diagram.
 
 <p align="center">
-	<img src="/isomorphism-theorems/second-1.png">
+	<img width="600" src="/isomorphism-theorems/second-1.png">
 </p>
 
 The key insight here is that we can interpret this map \\(\varphi\\) two
@@ -122,7 +123,7 @@ see that this map look like \\(A/(A\cap B)\\). The following diagram makes this
 more explicit.
 
 <p align="center">
-	<img src="/isomorphism-theorems/second-2.png">
+	<img width="600" src="/isomorphism-theorems/second-2.png">
 </p>
 
 Thus, we have the isomorphism \\((AB)/B\cong A/(A\cap B)\\) as desired.
@@ -147,7 +148,7 @@ We will again think of the elements of \\(G\\) as a collection of dots. Then we
 look at the cosets of \\(A\\) and \\(B\\).
 
 <p align="center">
-	<img src="/isomorphism-theorems/third-1.png">
+	<img width="600" src="/isomorphism-theorems/third-1.png">
 </p>
 
 If we just look at \\(G\\) and \\(B\\), we see that this homomorphism
@@ -155,7 +156,7 @@ If we just look at \\(G\\) and \\(B\\), we see that this homomorphism
 whole picture by \\(A\\) and everything still 'works'.
 
 <p align="center">
-	<img src="/isomorphism-theorems/third-2.png">
+	<img width="600" src="/isomorphism-theorems/third-2.png">
 </p>
 
 Here, each blue dot represents a coset of \\(A\\) instead of an element of
