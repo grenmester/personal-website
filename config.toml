@@ -10,40 +10,48 @@ theme = "Mainroad"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 2
-  [[menu.main]]
     name = "Projects"
     url = "/about/projects"
-    weight = 3
+    weight = 2
   [[menu.main]]
     name = "Course Notes"
     url = "/about/course-notes"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about"
     weight = 4
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.footer]]
+    name = "About This Website"
+    url = "/about"
+    weight = 2
+  [[menu.footer]]
+    name = "About Me"
+    url = "/about/about-me"
+    weight = 3
 
 [Params]
   subtitle = "My Personal Website"
   description = "Jacky Lee's personal website"
   readmore = true
-  homeLayout = "content + sidebar"
-  listLayout = "content + sidebar"
-  singleLayout = "content + sidebar"
+  mainSections = "post"
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js"
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 
-[Params.widgets]
-  search = true
-  recent_articles = true
-  recent_articles_num = 5
-  categories = true
-  tags = true
-  tags_counter = true
-  social_linkedin = "grenmester"
-  social_github = "grenmester"
-  social_email = "grenmester@gmail.com"
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = false
+  widgets = ["search", "recent", "categories", "taglist", "social"]
 
-[Taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
+[Params.widgets]
+  recent_num = 5
+
+[Params.widgets.social]
+  linkedin = "grenmester"
+  github = "grenmester"
+  email = "grenmester@gmail.com"
