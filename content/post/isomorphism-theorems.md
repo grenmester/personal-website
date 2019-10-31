@@ -10,7 +10,6 @@ tags:
   - Abstract Algebra
 ---
 
-\\(\\newcommand{\\im}{\\text{im}\,}\\)
 At first glance, the isomorphism theorems may seem confusing and unintuitive.
 The goal of this article is to hopefully give you additional insight into what
 the isomorphism theorems are trying to say. To make things more simple, we will
@@ -18,7 +17,8 @@ only look at the theorems in the context of groups. Consider the three
 isomorphism theorems stated for groups.
 
 > 1. Let \\(G\\) and \\(H\\) be groups and let \\(\varphi: G\to H\\) be a
->    homomorphism. Then \\(\ker\varphi\unlhd G\\), \\(\im\varphi\le H\\), and
+>    homomorphism. Then \\(\ker\varphi\unlhd G\\),
+>    \\(\\DeclareMathOperator{\\im}{im} \im\varphi\le H\\), and
 >    \\(G/\ker\varphi\cong\im\varphi\\).
 > 2. Let \\(G\\) be a group, \\(A\le G\\), and \\(B\unlhd G\\). Then \\(AB\le
 >    G\\), \\(B\unlhd AB\\), \\(A\cap B\unlhd A\\), and \\((AB)/B\cong A/(A\cap
