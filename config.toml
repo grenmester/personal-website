@@ -38,9 +38,8 @@ theme = "Mainroad"
   subtitle = "My Personal Website"
   description = "Jacky Lee's personal website"
   readmore = true
+  post_meta = ["date", "categories"]
   mainSections = "post"
-  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js"
-  mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 
 [Params.sidebar]
   home = "right"
