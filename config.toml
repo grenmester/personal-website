@@ -3,6 +3,7 @@ title = "Jacky Lee"
 languageCode = "en-us"
 paginate = "10"
 theme = "Mainroad"
+googleAnalytics = "UA-115382806-1"
 
 [menu]
   [[menu.main]]
