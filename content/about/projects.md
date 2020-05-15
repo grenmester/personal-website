@@ -87,6 +87,6 @@ detecting its surroundings with four proximity sensors and moving depending on
 the inputs detected by the sensors. Picobot was written in Python. This project
 was inspired by [Picobot](https://www.cs.hmc.edu/picobot/) from the Harvey Mudd
 College CS5 Introduction to Computer Science course and was created at the 2016
-MuddHacks hackathon. 
+MuddHacks hackathon.
 
 <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">

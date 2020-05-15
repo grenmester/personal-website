@@ -3,22 +3,19 @@ title: About Me
 description: This page is about me.
 ---
 
-I'm currently a senior studying computer science and mathematics at Harvey Mudd
-College. This semester I am a visiting student at the Hong Kong University of
-Science and Technology.
-
-Some of my interests include neural networks, machine learning, category
-theory, abstract algebra, and organic chemistry. I also enjoy working on
-puzzles, learning about new things, tutoring, playing badminton, and going
-bowling in my spare time. I am able to speak (or pretend to speak) English,
-Cantonese, Mandarin, Spanish, and Japanese, of which I have listed by
-decreasing proficiency.
+I recently graduated from Harvey Mudd College with a degree in computer science
+and mathematics. Some of my interests include neural networks, machine
+learning, category theory, abstract algebra, and organic chemistry. I also
+enjoy working on puzzles, learning about new things, tutoring, playing
+badminton, and going bowling in my spare time. I am able to speak (or pretend
+to speak) English, Cantonese, Mandarin, Spanish, and Japanese, of which I have
+listed by decreasing proficiency.
 
 Feel free to check out my [GitHub](https://github.com/grenmester) and some of
 the [projects](/about/projects) that I have been working on. You may also be
-interested in looking at my [resume](/about/resume.pdf), [CV](/about/cv.pdf),
-or a list of my [coursework](/about/coursework.pdf). I also have a collection
-of highly unpolished [notes](/about/course-notes) from some of my courses.
+interested in looking at my [CV](/about/cv.pdf), or a list of my
+[coursework](/about/coursework.pdf). I also have a collection of highly
+unpolished [notes](/about/course-notes) from some of my courses.
 
 I occasionally attend competitions, puzzle hunts, hackathons, and other fun
 activities. The following is a list of some those events that I remember
