@@ -29,9 +29,9 @@ Taught by Francis Su, Fall 2018
 Taught by Weiqing Gu, Summer 2018
 * **MATH172 - Abstract Algebra II: Galois Theory [(scan)](/course-notes/galois-theory.pdf)**<br>
 Taught by Francis Su, Spring 2018
-* **MATH171 - Abstract Algebra I [(TeX)](https://github.com/grenmester/abstract-algebra-notes/raw/master/abstract.pdf)**<br>
+* **MATH171 - Abstract Algebra I [(TeX)](/course-notes/abstract-algebra.pdf)**<br>
 Taught by Dagan Karp, Spring 2017
-* **MATH131 - Real Analysis I [([WIP] TeX)](https://github.com/grenmester/real-analysis-notes/raw/master/analysis.pdf)**<br>
+* **MATH131 - Real Analysis I [(TeX)](/course-notes/real-analysis.pdf)**<br>
 Taught by Michael Orrison, Spring 2017
 
 If you notice any errors or typos in the TeX, please let me know so I can fix
